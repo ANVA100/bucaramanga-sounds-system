@@ -1,2 +1,3 @@
 User-agent: *
 Allow: /
+Sitemap: https://anva100.github.io/bucaramanga-sounds-system/sitemap.xml
